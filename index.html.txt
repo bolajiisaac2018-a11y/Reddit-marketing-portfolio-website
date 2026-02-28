@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reddit Marketing for Fitness Brands</title>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background: #111;
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.button {
+  background: #25D366;
+  color: white;
+  padding: 12px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+section {
+  padding: 50px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.box {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Helping Fitness Brands Grow on Reddit</h1>
+  <p>Reach motivated clients, build trust, and increase sign-ups without paid ads.</p>
+  <a class="button" href="https://wa.me/2348133575723">Message Me on WhatsApp</a>
+</header>
+
+<section>
+  <h2>About My Service</h2>
+  <div class="box">
+    I help fitness brands attract real clients from Reddit communities where people actively look for fitness programs, coaching, and recommendations.
+    Instead of expensive ads, I position your brand naturally inside conversations so users trust and engage with you.
+  </div>
+</section>
+
+<section>
+  <h2>How I Work</h2>
+  <div class="box">1. Research high-quality fitness subreddits</div>
+  <div class="box">2. Create engaging posts & comments</div>
+  <div class="box">3. Build trust before promoting</div>
+  <div class="box">4. Adapt content to each subreddit’s rules</div>
+</section>
+
+<section>
+  <h2>Benefits</h2>
+  <div class="box">✔ Long-term visibility</div>
+  <div class="box">✔ Targeted traffic</div>
+  <div class="box">✔ Builds brand authority</div>
+  <div class="box">✔ No ad budget required</div>
+</section>
+
+<section>
+  <h2>Testimonials</h2>
+  <div class="box">
+    “Isaac helped us reach real fitness clients on Reddit. Engagement increased within the first week.”
+    <br><strong>— Online Fitness Coach</strong>
+  </div>
+  <div class="box">
+    “Professional, strategic, and results-focused.”
+    <br><strong>— Wellness Brand Owner</strong>
+  </div>
+</section>
+
+<section>
+  <h2>Pricing</h2>
+  <div class="box">
+    1 Reddit Post – $15 <br>
+    1 Reddit Comment – $10 <br>
+    Starter Package – 5 Posts + 5 Comments <br>
+    Discounts available for larger campaigns.
+  </div>
+</section>
+
+<footer>
+  © 2026 Reddit Marketing by Isaac
+</footer>
+
+</body>
+</html>
